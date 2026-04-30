@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "lelakisejati.aternos.me",
+    "port": 59906,
+    "version": "1.19.4",
     "try-creative": false
   },
   "position": {
